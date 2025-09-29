@@ -4,36 +4,70 @@
     "username": "Даниль Ахметгалиев",
     "avatarLink": "https://gravatar.com/avatar/d4f6beeb9e6c6841521984e97dfb59b08f8a087d9b27d98a85d3c51b5fa4661a?v=1757780162000&size=256&d=initials"
   },
-  "pets": [  {
-    id: "0",
-    title: "Пет-проект",
-    shortDescription: "Шорт о пет проекте",
-    description: "Описание пет проекта",
-    link: "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
-    previewLink: null
-  },
-  {
-    id: "1",
-    title: "Пет-проект",
-    shortDescription: "Шорт о пет проекте",
-    description: "Описание пет проекта",
-    link: "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
-    previewLink: null
-  },
-  {
-    id: "2",
-    title: "Пет-проект",
-    shortDescription: "Шорт о пет проекте",
-    description: "Описание пет проекта",
-    link: "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
-    previewLink: null
-  },
-  {
-    id: "3",
-    title: "Пет-проект",
-    shortDescription: "Шорт о пет проекте",
-    description: "Описание пет проекта",
-    link: "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
-    previewLink: null
-  }]
+  "pets": [
+        {
+        "id": "0",
+        "title": "Пет-проект",
+        "shortDescription": "Шорт о пет проекте",
+        "description": "Описание пет проекта",
+        "link": "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
+        "previewLink": null
+    },
+    {
+        "id": "1",
+        "title": "Пет-проект",
+        "shortDescription": "Шорт о пет проекте",
+        "description": "Описание пет проекта",
+        "link": "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
+        "previewLink": null
+    },
+    {
+        "id": "2",
+        "title": "Пет-проект",
+        "shortDescription": "Шорт о пет проекте",
+        "description": "Описание пет проекта",
+        "link": "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
+        "previewLink": null
+    },
+    {
+        "id": "3",
+        "title": "Пет-проект",
+        "shortDescription": "Шорт о пет проекте",
+        "description": "Описание пет проекта",
+        "link": "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
+        "previewLink": null
+    },
+    {
+        "id": "4",
+        "title": "Пет-проект",
+        "shortDescription": "Шорт о пет проекте",
+        "description": "Описание пет проекта",
+        "link": "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
+        "previewLink": null
+    },
+    {
+        "id": "5",
+        "title": "Пет-проект",
+        "shortDescription": "Шорт о пет проекте",
+        "description": "Описание пет проекта",
+        "link": "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
+        "previewLink": null
+    },
+    {
+        "id": "6",
+        "title": "Пет-проект",
+        "shortDescription": "Шорт о пет проекте",
+        "description": "Описание пет проекта",
+        "link": "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
+        "previewLink": null
+    },
+    {
+        "id": "7",
+        "title": "Пет-проект",
+        "shortDescription": "Шорт о пет проекте",
+        "description": "Описание пет проекта",
+        "link": "https://github.com/charDanilAkhmetgaliev/react-mesto-auth",
+        "previewLink": null
+    },
+  ]
 }
